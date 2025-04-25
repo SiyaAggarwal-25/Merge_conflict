@@ -1,3 +1,9 @@
+
 this is a test user.
 this person lives in punjab.
 this person working in chitkara.
+
+this is a developer2.
+this person lives in haryana.
+this person working in ilm organization.
+>>>>>>> developer2
